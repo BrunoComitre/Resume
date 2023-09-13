@@ -1,0 +1,4 @@
+baseURL = 'https://brunoalvescomitre.github.io/'
+languageCode = 'en-us'
+title = 'Bruno Alves Comitre Resume'
+theme = 'resume-a4'
