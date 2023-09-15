@@ -1,27 +1,59 @@
-- company: Uber
-  roles:
-    - role: Data Scientist
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
-      date: "10.2020 -  Present"
-
-- company: Google
+- company: BERGHEM - Smart Information Security  
   roles: 
-    - role: Senior Software Developer
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
-      date: "06.2019 - 10.2020"
+    - role: Consultor e Analista de Segurança da Informação
+      details: "Criação de processos de modelagem de ameaças e Desenvolvimento Seguro.
+        ◦ Utilização de metodologias de SSDLC e DevSecOps.
+        ◦ Pesquisa e Desenvolvimento em Segurança da Informação.
+        ◦ Machine Learning in Cybersecurity
+        ◦ Elaboração de modelagem de ameaças
+        ◦ Elaboração de casos de teste
+        ◦ Code review
+        ◦ Elaboração e revisão de relatórios de apontamentos de segurança
+        ◦ Web Application Penetration Testing
+        ◦ Network Penetration Testing
+        ◦ Mobile Application Penetration Testing
+        ◦ API Penetration Testing
+        ◦ Thich Client Penetration Testing
+        ◦ AWS Penetration Testing
+        ◦ OWASP TOP 10
+        ◦ NIST
+        ◦ Vulnerability Assessment
+        ◦ Ethical Hacking
+        ◦ Networking
+        ◦ Reverse Engineering
+        ◦ Security Operations
+        ◦ Incident Response"
+      date: "02.2022 - 06.2023"
     
-    - role: Junior Software Developer
-      date: "10.2018 - 06.2019"
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+    - role: Software Developer
+      date: "02.2019 - 01.2022"
+      details: "Desenvolvimento de API's para aplicações  relacionadas a segurança:
+        ◦ Python com frameworks Flask / Django / Tornado / FastApi
+        ◦ Machine Learning para predições de possíveis vulnerabilidades com análises temporais e Dashboard com possíveis vulnerabilidades relacionadas a fluxos de navegações Web e Mobile
+        ◦ Utilização das bases de dados: MongoDB / CouchDB / Redis / ElasticSearch
+        ◦ Docker / AWS / Azure |  Scrum / Git
+        ◦ JavaScript / Angular | TypeScript / Node"
 
-- company: Uber
+- company: Sicoob
   roles:
-    - role: Driver
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
-      date: "2017 - 2018"
+    - role: Operações de T.I
+      details: "Responsável por instalações, configurações, administração de redes e servidores, PABX. Atendimento telefônico e pessoal a unidades da empresa. Solução de problemas de software, hardware e rede acompanhamento e entendimento dos sistemas utilizados. Demandas de suporte para os sistemas. Tratamento de e-mails e assuntos de sistema e gestão de TI."
+      date: "02.2017 - 08.2018"
+
+- company: Freelancer
+  roles:
+    - role: Desenvolvedor Mobile
+      details: "Desenvolvedor de sistemas computacionais; Ferramentas para Internet; Desenvolvimento Mobile."
+      date: "01.2014 -  12.2016"
+
+- company: Spa Med Sorocaba Campus
+  roles:
+    - role: Operações de T.I
+      details: "Suporte Fixo (Na seção de Informática); Auxiliar de T.I"
+      date: "05.2014 -  08.2014"
+
+- company: Exército Brasileiro
+  roles:
+    - role: Segurança Atuação na área de T.I 
+      details: "Auxiliar de T.I na Seção Informática - Administração no Suporte Rotativo com implementação da política de informática e do Plano Diretor de Informática estabelecidos pelo Exército Brasileiro; Projeto, gerência e configuração da infraestrutura de rede interna; Suporte e orientação a seus usuários corroborando com o uso de software livre e de código aberto em consonância com o Plano de Software Livre do Exército Brasileiro; Gerência e manutenção do serviço WEB; Desenvolvimento, gerenciamento e manutenção de sistemas; Treinamento de usuários; Telefonia estruturada; Compras relacionadas à área de informática."
+      date: "01.2020 -  01.2013"
