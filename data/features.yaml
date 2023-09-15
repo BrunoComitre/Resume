@@ -1,8 +1,8 @@
 about:
-  name: Mert Bakir
+  name: Bruno Alves Comitre
   tagline: Data Scientist
   phone: "5070*4****"
-  email: yourmail@yourdomain
+  email: bruno-comitre@hotmail.com
   links:
     - title: /in/mertbakir
       url: https://tr.linkedin.com/in/mertbakir
@@ -41,16 +41,14 @@ interests:
   - Data Science
   - AI Applications
   - Optimization Problems
+  - CiberSecurity
 
 languages:
-  - name: Turkish
+  - name: Língua Portuguesa
     level: Native
 
-  - name: English
+  - name: Inglês
     level: Professional
-    certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
 
 # This will use the default widget: "details-list"
 awards:
