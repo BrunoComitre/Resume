@@ -8,7 +8,9 @@ Resume with Hugo
 
 ## Links
 
-[What is Hugo? and How to install Hugo on Windows.](https://www.youtube.com/watch?v=N-QRjEJsBRU)
-[Hugo Releases GitHub](https://github.com/gohugoio/hugo/releases)
+1. [What is Hugo? and How to install Hugo on Windows.](https://www.youtube.com/watch?v=N-QRjEJsBRU)
+2. [Hugo Releases GitHub](https://github.com/gohugoio/hugo/releases)
+3. [lowtechmag/solar_v2](https://github.com/lowtechmag/solar_v2)
+4. [Yotube Tutorial -  Criando um Site Hugo](https://www.youtube.com/results?search_query=create+hugo+site)
 
 ---
