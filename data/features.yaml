@@ -14,11 +14,25 @@ about:
       url: https://github.com/mertbakir
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
+    Olá Pessoa, obrigado por ter vindo!
 
-    Nam suscipit nisi a bibendum lacinia.
-
+    Este é o BrunoComitre, vivo em Sorocaba, São Paulo - Brazil e trabalho atualmente de forma remota. Sou um Programador + Pentester + Análista de Dados + O combo do carinha do TI.
+    
+    Atualmente, estou atuando como Pentester como Bug Hunter em plataformas e Programador de Back-End utilizando Python e Javascript.
+    
+    Tenho faculdade de Ciência da Computação e Ciência de Dados, o que pode agregar na área de desenvolvimento.
+    
+    Com 5 anos de experiência na área.
+    
+    Sou entusiasta de data-(science/enginnering) há 4 anos!
+    
+    As minhas áreas de interesse são muitas, embora eu seja principalmente apaixonado por Cyber Segurança, Ciência da teoria da computação, análise de dados e inteligência artificial;
+    
+    A Pentest com Machine Learning é o meu principal tópico de estudo.
+    
+    Os meus interesses são vastos, mas a maior parte deles são: NLP, Base de dados, NoSQL, Web Sites, Aplicações Web, Ciência de Dados, Ciência da Computação, Python.
+    
+    E estudo e trabalho com "Web Application Penetration Testing, Network Penetration Testing, Active Directory Penetration Testing , Mobile Application Penetration Testing , API Penetration Testing , Thich Client Penetration Testing, Thin Client Penetration Testing, AWS Penetration Testing, Cybersecurity, Pentest , OWASP , NIST , Security, e o meu último as Vulnerability Assessment, Ethical Hacking, Linux Administration, Networking, Code Review, Reverse Engineering, Malware Analysis, Security Operations, Digital Forensics, Incident Response.
 
 skills:
   - groupName: Databases & Visualization
@@ -38,10 +52,11 @@ skills:
       - Linux - CentOS RHEL
 
 interests:
+  - CyberSecurity
   - Data Science
+  - Programming
   - AI Applications
   - Optimization Problems
-  - CiberSecurity
 
 languages:
   - name: Língua Portuguesa
@@ -69,12 +84,36 @@ awards:
         prefix: "omg"
 
 certificates:
-  - title: "Supervised Learning: Regression"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
+  - title: "Curso do Zero à Hacker - OWASP TOP 10 Tópicos e WSTG Especializações"
+    subtitle: Online
+    date: "2023"
 
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+  - title: "Introdução à Lei Brasileira de Proteção a Dados Pessoais (LGPD)"
+    subtitle: Escola Nacional de Administração Pública - Enap
+    date: "2023"
+
+  - title: "Python Power"
+    subtitle: PSF Membership
+    date: "2021"
+
+  - title: "NASA's International Space Apps Challenges"
+    subtitle: UFSCAR
+    date: "2021"
+
+  - title: "Java"
+    subtitle: M&M Informática
+    date: "2015"
+    link: 997-2039149 # This link will be on title level.
+
+  - title: "Redes de Computadores"
+    subtitle: M&M Informática
+    date: "2016"
+    link: 10043-2039149
+
+  - title: "Inglês Intermediário"
+    subtitle: Centro Cultural Brasil/Estados Unidos Idiomas
+    date: "2015"
+
+  - title: "Web Designer"
+    subtitle: M&M Informática
+    date: "2013"
