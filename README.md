@@ -1,11 +1,11 @@
 # Resume
 
-Site Resume with Hugo Framework
+#### Site Resume with Hugo Framework
 
 ## TO-DO
 
 - [ ] Finalizar Vídeo: [Creating a Blog with Hugo and Github in 10 minutes](https://www.youtube.com/watch?v=LIFvgrRxdt4)
-- [ ] Transcrever meu currículo
+- [x] Transcrever meu currículo
 
 ## Links
 
