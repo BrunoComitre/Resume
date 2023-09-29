@@ -6,6 +6,7 @@
 
 - [ ] Finalizar Vídeo: [Creating a Blog with Hugo and Github in 10 minutes](https://www.youtube.com/watch?v=LIFvgrRxdt4)
 - [x] Transcrever meu currículo
+- [ ] Aumentar folha ou quantidade de páginas de acordo com o projeto original
 
 ## Links
 
